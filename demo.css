@@ -39,7 +39,7 @@ input-text{
     font-family: Times New Roman;
     }
  body{
-   background: url("/WORKSPACE/back.jpg") repeat-y;
+   background: url("/back.jpg") repeat-y;
 }
 aside{
     background-color: none;
