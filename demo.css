@@ -7,7 +7,7 @@ a{
     color: white;
 }
 h2{
-    color: #AFE5F2;
+    color: #B8B5A0;
 }
 hr{
     color: red;
@@ -17,13 +17,14 @@ hr{
 #b1,#b2,#b3{
     height : 400px;
     width: 650px;
-    border: 2.5px dotted black;
-    background-color: #352CD3;
+    border: 2.5px none black;
+    background-color: #407FF6;
     margin: 10px;
     padding: 10px; 
     text-align: center;
     font-size: 30px;
     border-radius: 45px;
+    color: white;
 }
 .big{
     align: center;
@@ -131,6 +132,6 @@ h2{
   font-style: normal;
 }
 footer{
-    color: #97BAFF;
+    color: #B8B5A0;
 }
 
