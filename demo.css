@@ -12,14 +12,14 @@ hr{
     background-color: red;
 }
 #b1,#b2,#b3{
-    height : 190px;
-    width: 200px;
-    border: 0.25px dotted black;
+    height : 300px;
+    width: 450px;
+    border: 2.5px dotted black;
     background-color: lightgrey;
-    margin: 4px;
+    margin: 10px;
     padding: 10px; 
     text-align: center;
-    font-size: 15px;
+    font-size: 25px;
     border-radius: 45px;
 }
 .big{
@@ -39,7 +39,9 @@ input-text{
     font-family: Times New Roman;
     }
  body{
-   background: url("./back.jpg") repeat-y;
+   background: url("./back.jpg") no-repeat;
+     background-size: cover;
+     background-position: center;
 }
 aside{
     background-color: none;
@@ -113,6 +115,6 @@ a{
 .nav{
   border: none none 3px none;
   border-bottom: 2px solid seagreen;
-  width: 305px;
+  width: 600px;
   
 }
