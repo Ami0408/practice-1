@@ -74,6 +74,7 @@ nav{
 }
 #subscribe{
     margin-bottom: 0;
+    font-size: 22px;
 }
 #sub{
   background-color: #6cb34c;
@@ -114,7 +115,7 @@ nav{
   justify-content: center;
    font-weight: bold;
     font-size: 30px;
-  
+  margin: 15px;
 }
 a{
  list-style-type: dotted;
