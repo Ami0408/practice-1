@@ -12,14 +12,14 @@ hr{
     background-color: red;
 }
 #b1,#b2,#b3{
-    height : 350px;
-    width: 450px;
+    height : 400px;
+    width: 550px;
     border: 2.5px dotted black;
     background-color: lightgrey;
     margin: 10px;
     padding: 10px; 
     text-align: center;
-    font-size: 25px;
+    font-size: 35px;
     border-radius: 45px;
 }
 .big{
@@ -50,9 +50,9 @@ aside{
     background-color: ;
 }
 label, input{
-    margin-top: 1.25px;
+    margin-top: 12.5px;
     align-items: center;
-    height: 30px;
+    height: 60px;
     font-size: 15px;
 }
 footer{
@@ -60,7 +60,7 @@ footer{
 }
 header{
     color: white;
-    font-size: 20px;
+    font-size: 40px;
     background-color: ;
 }
 nav{
