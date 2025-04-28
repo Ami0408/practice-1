@@ -122,10 +122,6 @@ nav{
 a{
  list-style-type: dotted;
 }
-a{
- font-size: 55px;
-    
-}
 footer{
     margin-top: 50px;
     font-size: 35px;
@@ -142,4 +138,9 @@ footer{
 .subscribe {
   
     font-size: 35px;
+}
+.subn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
