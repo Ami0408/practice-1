@@ -84,7 +84,7 @@ input{
   border-radius: 50px;
 }
 h3{
-  font-size: 29px;
+  font-size: 35px;
   font-family: "sans-serif";
   color: #6cb34c;
 }
@@ -136,8 +136,5 @@ h2{
 }
 footer{
     color: #6cb34c;
-}
-.serve{
-    font-size: 25px;
 }
 
