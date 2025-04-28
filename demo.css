@@ -12,7 +12,7 @@ hr{
     background-color: red;
 }
 #b1,#b2,#b3{
-    height : 300px;
+    height : 350px;
     width: 450px;
     border: 2.5px dotted black;
     background-color: lightgrey;
@@ -39,7 +39,7 @@ input-text{
     font-family: Times New Roman;
     }
  body{
-   background: url("./back.jpg") no-repeat;
+   background: url("./back.jpg") repeat-y;
      background-size: cover;
      background-position: center;
 }
@@ -113,8 +113,7 @@ a{
  list-style-type: dotted;
 }
 .nav{
-  border: none none 3px none;
-  border-bottom: 2px solid seagreen;
+ border-bottom: 2px solid seagreen;
   width: 600px;
   
 }
