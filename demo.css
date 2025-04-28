@@ -7,7 +7,7 @@ a{
     color: white;
 }
 h2{
-    color: #AFE5F2;
+    color: #228fdd;
 }
 hr{
     color: red;
@@ -18,12 +18,13 @@ hr{
     height : 400px;
     width: 650px;
     border: 2.5px dotted black;
-    background-color: #352CD3;
+    background-color: #6a88ff;
     margin: 10px;
     padding: 10px; 
     text-align: center;
     font-size: 30px;
     border-radius: 45px;
+    color: white;
 }
 .big{
     align: center;
@@ -59,9 +60,6 @@ label, input{
     align-items: center;
     height: 60px;
     font-size: 35px;
-}
-footer{
-    
 }
 header{
     color: white;
@@ -124,7 +122,7 @@ a{
 footer{
     margin-top: 50px;
     font-size: 35px;
-    
+   color: #97BAFF;
 }
 h2{
   font-family: "Cal Sans", sans-serif;
