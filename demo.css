@@ -13,13 +13,13 @@ hr{
 }
 #b1,#b2,#b3{
     height : 400px;
-    width: 550px;
+    width: 650px;
     border: 2.5px dotted black;
     background-color: lightgrey;
     margin: 10px;
     padding: 10px; 
     text-align: center;
-    font-size: 35px;
+    font-size: 55px;
     border-radius: 45px;
 }
 .big{
@@ -39,7 +39,7 @@ input-text{
     font-family: Times New Roman;
     }
  body{
-   background: url("./back.jpg") repeat-y;
+   background: url("./back.jpg") repeat-x;
      background-size: cover;
      background-position: center;
 }
@@ -53,7 +53,7 @@ label, input{
     margin-top: 12.5px;
     align-items: center;
     height: 60px;
-    font-size: 15px;
+    font-size: 35px;
 }
 footer{
     
@@ -100,7 +100,7 @@ display: flex;
   width: ;
 }
 .radio{
-  height: 10px;
+  height: 15px;
 }
 nav{
   display: flex;
@@ -116,4 +116,9 @@ a{
  border-bottom: 2px solid seagreen;
   width: 600px;
   
+}
+footer{
+    margin-top: 50px;
+    font-size: 35px;
+    
 }
