@@ -117,9 +117,8 @@ a{
  list-style-type: dotted;
 }
 .nav{
- border-bottom: 2px solid seagreen;
-  width: 600px;
-  
+ font-size: 35px;
+    
 }
 footer{
     margin-top: 50px;
