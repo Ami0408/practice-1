@@ -3,7 +3,7 @@ h4,h5{
     }
 a{
     text-decoration: none;
-    font-size: 20px;
+    font-size: 30px;
     color: white;
 }
 h2{
@@ -132,8 +132,8 @@ footer{
 }
 nav,a {
       display: inline-block;
-      margin-right: 10px;
+      padding-right: 10px;
 } 
 nav,a:last-child {
-      margin-right: 0;
+      padding-right: 0;
     }
