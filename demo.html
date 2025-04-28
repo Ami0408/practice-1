@@ -7,6 +7,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cal+Sans&display=swap" rel="stylesheet">
+    <script src ="demo.js">
 </head>
 <body>
    <header>
@@ -22,13 +23,15 @@
        </div>
    <aside id = "Subscribe">
        <h4>Subscribe to receive daily updates on Bundles</h4>
-       <label>E-mail: </label>
+       <form action ='form()'>
+           <label>E-mail: </label>
        <input type ='text' required/>
        <br>
        <input type ='radio' class ="radio"><small class ='agreement'><i>
            I agree with the daily mails from Favy Hub </i>
        </small><br>
        <input type = 'Submit' value = 'Subscribe' id = 'sub'>
+       </form>
    </aside>
    </header>
    <aside id = "services">
