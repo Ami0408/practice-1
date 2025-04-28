@@ -42,6 +42,8 @@ input-text{
    background: url("./back.jpg") repeat-x;
      background-size: cover;
      background-position: center;
+     height: 100vh;
+     margin: 0;
 }
 aside{
     background-color: none;
