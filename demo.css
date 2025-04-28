@@ -109,16 +109,7 @@ display: flex;
 .radio{
   height: 15px;
 }
-nav{
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-   font-weight: bolder;
-    font-size: 60px;
-  padding-left: 10px;
-    padding-right: 10px;
-    padding-bottom: 5px;
-}
+
 a{
  list-style-type: dotted;
 }
@@ -139,8 +130,10 @@ footer{
   
     font-size: 35px;
 }
-.subn{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
+nav,a {
+      display: inline-block;
+      margin-right: 10px;
+} 
+nav,a:last-child {
+      margin-right: 0;
+    }
