@@ -137,4 +137,7 @@ h2{
 footer{
     color: #6cb34c;
 }
-
+.subscribe {
+    font-weight: bolder;
+    font-size: 55px;
+}
