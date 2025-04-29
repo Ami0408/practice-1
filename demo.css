@@ -25,6 +25,9 @@ hr{
     font-size: 30px;
     border-radius: 45px;
     color: white;
+    animation: appear linear;
+    animation-timeline: view();
+    animation-range: entry 40%;
 }
 .big{
     align: center;
@@ -136,4 +139,15 @@ nav,a {
 } 
 nav,a:last-child {
       padding-right: 0;
+    }
+@keyframes appear{
+    from{
+        opacity: 0;
+        scale: 0.5;
+        
+    }
+    to{
+        opacity: 1;
+        scale: 1;
+    }
     }
